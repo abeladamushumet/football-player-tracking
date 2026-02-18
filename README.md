@@ -5,7 +5,6 @@ A comprehensive computer vision system for detecting, tracking, and analyzing fo
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/opencv-4.8+-green.svg)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-ultralytics-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 🎯 Features
 
