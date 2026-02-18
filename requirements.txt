@@ -1,0 +1,13 @@
+# Core Libraries
+numpy
+scipy
+
+# Deep Learning & Object Detection
+ultralytics
+
+# Computer Vision
+opencv-python
+
+# Visualization
+matplotlib
+
